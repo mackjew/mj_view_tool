@@ -16,7 +16,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+mj_view_tool::Renderer.copyright 'MacKenzie Jew', 'All rights reserved'
+```
 
 ## Development
 
