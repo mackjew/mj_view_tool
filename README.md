@@ -1,6 +1,6 @@
 # MjViewTool
 
-TODO: Delete this and the text below, and describe your gem
+This is a small test rubygem for my learning purposes. This is for a Udemy course on Ruby on Rails by Jordan Hudgens
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mj_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -10,11 +10,11 @@ TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_O
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+    $ bundle add 'mj_view_tool'
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+    $ gem install 'mj_view_tool'
 
 ## Usage
 
@@ -28,7 +28,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/mj_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mackjew/mj_view_tool.
 
 ## License
 
